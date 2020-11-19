@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <h1>Bharat Singh Rajawat</h1>
     </div>
   );
 }
