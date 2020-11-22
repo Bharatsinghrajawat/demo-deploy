@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/demo-deploy/static/css/main.2d13fed8.chunk.css",
-    "main.js": "/demo-deploy/static/js/main.859715d9.chunk.js",
-    "main.js.map": "/demo-deploy/static/js/main.859715d9.chunk.js.map",
+    "main.js": "/demo-deploy/static/js/main.13503816.chunk.js",
+    "main.js.map": "/demo-deploy/static/js/main.13503816.chunk.js.map",
     "runtime-main.js": "/demo-deploy/static/js/runtime-main.6012a79b.js",
     "runtime-main.js.map": "/demo-deploy/static/js/runtime-main.6012a79b.js.map",
-    "static/js/2.c54756ac.chunk.js": "/demo-deploy/static/js/2.c54756ac.chunk.js",
-    "static/js/2.c54756ac.chunk.js.map": "/demo-deploy/static/js/2.c54756ac.chunk.js.map",
+    "static/js/2.22147fdb.chunk.js": "/demo-deploy/static/js/2.22147fdb.chunk.js",
+    "static/js/2.22147fdb.chunk.js.map": "/demo-deploy/static/js/2.22147fdb.chunk.js.map",
     "static/js/3.d644740f.chunk.js": "/demo-deploy/static/js/3.d644740f.chunk.js",
     "static/js/3.d644740f.chunk.js.map": "/demo-deploy/static/js/3.d644740f.chunk.js.map",
     "index.html": "/demo-deploy/index.html",
     "static/css/main.2d13fed8.chunk.css.map": "/demo-deploy/static/css/main.2d13fed8.chunk.css.map",
-    "static/js/2.c54756ac.chunk.js.LICENSE.txt": "/demo-deploy/static/js/2.c54756ac.chunk.js.LICENSE.txt",
+    "static/js/2.22147fdb.chunk.js.LICENSE.txt": "/demo-deploy/static/js/2.22147fdb.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/demo-deploy/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6012a79b.js",
-    "static/js/2.c54756ac.chunk.js",
+    "static/js/2.22147fdb.chunk.js",
     "static/css/main.2d13fed8.chunk.css",
-    "static/js/main.859715d9.chunk.js"
+    "static/js/main.13503816.chunk.js"
   ]
 }
